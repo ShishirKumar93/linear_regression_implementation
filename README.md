@@ -7,6 +7,8 @@ Python implementation from scratch - Linear Regression
  2) RidgeRegression621: linear regression with L2 regularisation. It has methods predict() and fit().
  3) LogisticRegression621: logistic regression. It has methods fit(), predict() and predict_proba().
 
- The AdaGrad algorithm is encapsulated inside minimize() function, which is called by the different classes and returns the parameter combination that mimizes loss.
+ The AdaGrad algorithm is encapsulated inside minimize() function, which is called by above classes and returns the parameter combination that minimizes loss.
 
- test_class.py and test_regr.py are tests designed to check our implementation.
+ test_class.py and test_regr.py are tests designed to validate our implementation.
+
+ Thanks to @partt for the guidance and support in this school project.
