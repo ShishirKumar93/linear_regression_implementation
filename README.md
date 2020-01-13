@@ -11,4 +11,4 @@ Python implementation from scratch - Linear Regression
 
  test_class.py and test_regr.py are tests designed to validate our implementation.
 
- Thanks to [Terence Parr](https://github.com/parrt) for his guidance and support in this school project.
+ Thanks to Prof. [Terence Parr](https://github.com/parrt) for his guidance and support in this school project.
