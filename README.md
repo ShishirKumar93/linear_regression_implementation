@@ -9,6 +9,6 @@ Python implementation from scratch - Linear Regression
 
  The AdaGrad optimization algorithm is encapsulated inside minimize() function, which is called by above classes and returns the parameter combination that minimizes loss.
 
- test_class.py and test_regr.py are tests designed to validate our implementation.
+ test_class.py and test_regr.py are tests designed to validate my implementation.
 
  Thanks to Prof. [Terence Parr](https://github.com/parrt) for his guidance and support in this school project.
